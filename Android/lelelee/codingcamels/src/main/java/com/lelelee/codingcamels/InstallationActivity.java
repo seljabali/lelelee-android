@@ -6,7 +6,7 @@ import android.view.Window;
 import android.view.WindowManager;
 
 /**
- * Created by samsoom on 9/17/14.
+ * Created by Sami Eljabali on 9/17/14.
  */
 public class InstallationActivity extends Activity {
     @Override
@@ -34,5 +34,3 @@ public class InstallationActivity extends Activity {
         super.onBackPressed();
     }
 }
-
-
